@@ -1,2 +1,1 @@
-# futon
-Futon Host
+# FuTon Alpha Release
